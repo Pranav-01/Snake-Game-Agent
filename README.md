@@ -1,0 +1,3 @@
+Reinforcement Learning CS 5180 Northeastern University
+
+As part of the final project requirements of the Reinforcement Learning Course (CS 5180), an agent using the concepts of reinforcement learning was created. The agent has been trained with two different algorithms, DQN and Double-DQN. The project utilized the PyGame library to help generate the environment of the snake game for the game agent to be executed in. This project was done by me, Pranav K Nair and Aadhar Bansal.
